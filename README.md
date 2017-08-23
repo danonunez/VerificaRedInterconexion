@@ -1,4 +1,6 @@
-# Problem
+# Verifica Red de Interconexión
+
+## Problem
 
 Una red de interconexión posee una topología específica mediante la cual procesadores y/o módulos de memoria se interconectan.
 
